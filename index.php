@@ -331,7 +331,7 @@
           <li><i class="fa-li fa fa-long-arrow-right"></i><a href="http://www.expanse.tech/docs/guide"><?php echo $i8n['main_documentation_guide']; ?></a></li>
           <li><i class="fa-li fa fa-long-arrow-right"></i><a href="http://www.expanse.tech/docs/roadmap.pdf"><?php echo $i8n['main_documentation_roadmap']; ?></a></li>
         </ul>
-        <a href="http://www.expanse.tech/docs/whitepaper-draft.pdf">
+        <a href="http://www.expanse.tech/docs/Expanse_whitepaper.pdf">
         <div class="btn3"><?php echo $i8n['main_documentation_whitepaper']; ?></div>
         </a> </div>
     </div>
